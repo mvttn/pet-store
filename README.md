@@ -2,10 +2,11 @@
 
 ## Dev setup process
 
-### Step 1: Clone the repository
+### Step 1: Clone the repository and switch to relevant branch
 ```
 git clone <repo_url>
 cd <repo_directory>
+git checkout feature/MatthewNguyen-CBATest
 ```
 ### Step 2: Setup virtual environment using Python venv 
 Use `python3 -m venv venv`  
