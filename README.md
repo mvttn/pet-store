@@ -10,11 +10,16 @@ git checkout feature/MatthewNguyen-CBATest
 ```
 ### Step 2: Setup virtual environment using Python venv 
 Use `python3 -m venv venv`  
+  
 Activate your virtual environment:  
 For macOS/Linux:  
-`source venv/bin/activate`  
+```
+source venv/bin/activate
+```
 For Windows:  
-`.\venv\Scripts\activate`
+```
+.\venv\Scripts\activate
+```
 ### Step 3: Install python libraries
 ```
 python -m pip install -r requirements.txt
