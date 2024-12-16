@@ -25,4 +25,6 @@ You will need to activate your python environment each time you create a new ter
 Ensure your virtual environment is activated (if not already).  
 
 Run the tests using `unittest`  
-```python -m unittest tests/regression/test_pet_api.py``` 
+```
+python -m unittest tests/regression/test_pet_api.py
+``` 
